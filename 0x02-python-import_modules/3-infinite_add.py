@@ -2,7 +2,8 @@
 if __name__ == "__main__":
     import sys
     result = 0
-    if (len(sys.argv) >= 1):
-        for i in range(0, len(sys.argv)):
-            result += (int(sys.argv[i]))
+    count = len(sys.argv)
+    if count > 0:
+        for i in range(count):
+            result += int(sys.argv[i])
     print("{:d}".format(result))
