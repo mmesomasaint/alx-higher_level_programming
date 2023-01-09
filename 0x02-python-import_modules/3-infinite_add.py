@@ -7,4 +7,4 @@ if __name__ == "__main__":
     total = 0
     for i in sys.argv:
         total += int(i)
-    print("{}".format(total))
+    print("{:d}\n".format(total))
