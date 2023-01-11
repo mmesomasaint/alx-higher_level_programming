@@ -5,7 +5,7 @@ if __name__ == "__main__":
     import sys
 
     total = 0
-    if len(sys.argv) > 0:
-        for i in sys.argv:
-            total += int(i)
-    print("{:d}\n".format(total))
+    for i in range(len(sys.argv) - 1):
+        total += int(sys.argv[i + 1])
+    print("{}".format(total))
+    
