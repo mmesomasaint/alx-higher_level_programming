@@ -1,1 +1,4 @@
-my first readme
+# Python Exception
+
+In this project, I learnt:
+&middot;
