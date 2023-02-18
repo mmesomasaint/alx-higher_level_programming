@@ -20,4 +20,4 @@ This project is a combination of all the concepts that I have learnt in python s
 * (args/kwargs)[https://intranet.alxswe.com/rltoken/7gc6UzxSL81HcuAwklUbuQ]
 * (JSON encoder and decoder)[https://intranet.alxswe.com/rltoken/rGVU9mt57rVURGnjK6n4_Q]
 * (unittest module)[https://intranet.alxswe.com/rltoken/soictNXCPE18ASL3INoeew]
-* [https://intranet.alxswe.com/rltoken/uI9iskBCcNo5pc7j9Vy86A](Python test cheatsheet)
+* (https://intranet.alxswe.com/rltoken/uI9iskBCcNo5pc7j9Vy86A)[Python test cheatsheet]
