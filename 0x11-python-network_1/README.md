@@ -16,7 +16,7 @@ In the end, you will learn how to:
 1. **[What's my status? #0](./0-hbtn_status.py)**
   - Write a Python script that fetches https://alx-intranet.hbtn.io/status
 
-2. **[Response header value #0](./1-hbtn_header.py)
+2. **[Response header value #0](./1-hbtn_header.py)**
   - Write a Python script that takes in a URL, sends a request to the URL and displays the value of the `X-Request-Id` variable found in the header of the response.
 
 3. **[POST an email #0](./2-post_email.py)**
