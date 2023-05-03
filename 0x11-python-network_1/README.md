@@ -19,31 +19,31 @@ In the end, you will learn how to:
 2. **[Response header value #0](./1-hbtn_header.py)
   - Write a Python script that takes in a URL, sends a request to the URL and displays the value of the `X-Request-Id` variable found in the header of the response.
 
-3. **[POST an email #0](./2-post_email.py)
+3. **[POST an email #0](./2-post_email.py)**
   - Write a Python script that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in `utf-8`).
 
-4. **[Error code #0](./3-error_code.py)
+4. **[Error code #0](./3-error_code.py)**
   - Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in `utf-8`).
 
-5. **[What's my status? #1](./4-hbtn_status.py)
+5. **[What's my status? #1](./4-hbtn_status.py)**
   - Write a Python script that fetches https://alx-intranet.hbtn.io/status
 
-6. **[Response header value #1](./5-hbtn_header.py)
+6. **[Response header value #1](./5-hbtn_header.py)**
   - Write a Python script that takes in a URL, sends a request to the URL and displays the value of the variable `X-Request-Id` in the response header.
  
-7. **[POST an email #1](./6-post_email.py)
+7. **[POST an email #1](./6-post_email.py)**
   - Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
  
-8. **[Error code #1](./7-error_code.py)
+8. **[Error code #1](./7-error_code.py)**
   - Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response.
 
-9. **[Search API](./8-json_api.py)
+9. **[Search API](./8-json_api.py)**
   - Write a Python script that takes in a letter and sends a `POST` request to `http://0.0.0.0:5000/search_user` with the letter as a parameter.
 
-10. **[My GitHub!](./10-my_github.py)
+10. **[My GitHub!](./10-my_github.py)**
   - Write a Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id.
 
-11. **[Time for an interview!](./100-github_commits.py)
+11. **[Time for an interview!](./100-github_commits.py)**
   - The Holberton School staff evaluates candidates applying for a back-end position with multiple technical challenges, like this one:
 
     `Please list 10 commits (from the most recent to oldest) of the repository “rails” by the user “rails”
